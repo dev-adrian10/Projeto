@@ -165,8 +165,8 @@ body{
       border-radius: 50%;
     }
     
-    background: var(--highlight-color);
     #social-links a:hover {
+      background: var(--highlight-color);
     }
 
     footer{
